@@ -1,0 +1,40 @@
+body {
+    padding: 20px;
+    height: 450px;
+    background-color: #14181c;
+}
+
+#posters {
+    display: flex;
+    justify-content: center;
+}
+
+.poster {
+    flex-shrink: 0;
+    align-self: center;
+    margin: 10px;
+    width: 230px;
+    height: 345px;
+}
+
+#titles {
+    display: flex;
+    justify-content: center;
+    font-family: georgia;
+    font-size: 16px;
+}
+
+.title {
+    flex-shrink: 0;
+    align-self: center;
+    margin: 10px;
+    width: 230px;
+    height: 31px;
+    color: white;
+    text-align: center;
+}
+
+.posterimage {
+    width: inherit;
+    height: inherit;
+}
