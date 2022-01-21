@@ -22,7 +22,7 @@ body {
 
 .poster:hover {
     transform: translateY(-10px);
-    box-shadow: 0px 0px 20px rgb(12, 12, 12);
+    box-shadow: 0px 0px 20px rgb(0, 0, 0);
     text-shadow: 0px 0px 12px #7E90A3;
 }
 
